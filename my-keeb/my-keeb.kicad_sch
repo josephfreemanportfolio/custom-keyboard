@@ -6995,7 +6995,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 179.07 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -7673,7 +7673,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 166.37 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -8110,82 +8110,6 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_marbastlib-mx:MX_stab")
-		(at 363.22 194.31 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1d85240b-936f-4074-9014-d3572770dcc5")
-		(property "Reference" "S5"
-			(at 369.57 192.9129 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MX_stab"
-			(at 369.57 195.4529 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_6.25u"
-			(at 363.22 194.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 363.22 194.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Cherry MX-style stabilizer"
-			(at 363.22 194.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(instances
-			(project "my-keeb"
-				(path "/a23aa3e6-b9ce-4514-a30b-1c7f03de1c53"
-					(reference "S5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Diode:1N4148")
 		(at 285.75 153.67 90)
 		(unit 1)
@@ -8320,7 +8244,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 166.37 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -8711,7 +8635,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 153.67 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -8791,7 +8715,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 331.47 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -9079,7 +9003,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 306.07 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -9263,7 +9187,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 217.17 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -9446,7 +9370,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 204.47 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -9630,7 +9554,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 280.67 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -9710,7 +9634,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 267.97 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -9868,7 +9792,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 179.07 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -9948,7 +9872,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 191.77 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -10235,7 +10159,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 267.97 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -10523,7 +10447,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 267.97 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -10706,7 +10630,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 229.87 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -10786,7 +10710,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 179.07 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -11178,7 +11102,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 293.37 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -11364,7 +11288,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_6.25u"
+		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_2u"
 			(at 363.22 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -11542,7 +11466,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 306.07 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -11728,7 +11652,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_6.25u"
+		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_2u"
 			(at 363.22 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -11906,7 +11830,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 191.77 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -11986,7 +11910,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 229.87 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -12068,7 +11992,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_6.25u"
+		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_6.25u"
 			(at 363.22 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -12350,7 +12274,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 217.17 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -12505,7 +12429,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 191.77 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -12689,7 +12613,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 255.27 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -12769,7 +12693,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 242.57 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -12952,7 +12876,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 293.37 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -13032,7 +12956,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 204.47 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -13320,7 +13244,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 293.37 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -13363,82 +13287,6 @@
 			(project "my-keeb"
 				(path "/a23aa3e6-b9ce-4514-a30b-1c7f03de1c53"
 					(reference "SW12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PCM_marbastlib-mx:MX_stab")
-		(at 363.22 201.93 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6fadfdc8-3bf0-45c5-a3f3-d837bdb4fa8f")
-		(property "Reference" "S6"
-			(at 369.57 200.5329 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MX_stab"
-			(at 369.57 203.0729 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_6.25u"
-			(at 363.22 201.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 363.22 201.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Cherry MX-style stabilizer"
-			(at 363.22 201.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(instances
-			(project "my-keeb"
-				(path "/a23aa3e6-b9ce-4514-a30b-1c7f03de1c53"
-					(reference "S6")
 					(unit 1)
 				)
 			)
@@ -13580,7 +13428,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 204.47 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -13660,7 +13508,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 318.77 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -13740,7 +13588,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 166.37 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -13820,7 +13668,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 217.17 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -13900,7 +13748,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 242.57 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -14084,7 +13932,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 229.87 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -14268,7 +14116,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 293.37 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -14348,7 +14196,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 280.67 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -14428,7 +14276,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 242.57 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -14819,7 +14667,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 255.27 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -14899,7 +14747,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 255.27 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -15083,7 +14931,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 166.37 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -15447,7 +15295,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 306.07 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -15527,7 +15375,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 318.77 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -15606,7 +15454,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 318.77 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -15686,7 +15534,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 153.67 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -15766,7 +15614,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 153.67 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -16028,7 +15876,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 191.77 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -16108,7 +15956,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 267.97 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -16499,7 +16347,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 242.57 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -16578,7 +16426,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 280.67 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -16835,82 +16683,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 387.35 195.58 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9e7e1651-aa4e-4d70-87db-39274d3af725")
-		(property "Reference" "H6"
-			(at 389.89 194.3099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 389.89 196.8499 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 387.35 195.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 387.35 195.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 387.35 195.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(instances
-			(project "my-keeb"
-				(path "/a23aa3e6-b9ce-4514-a30b-1c7f03de1c53"
-					(reference "H6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 153.67 107.95 0)
 		(unit 1)
@@ -16942,7 +16714,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 153.67 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -17126,7 +16898,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 267.97 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -17414,7 +17186,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 179.07 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -17494,7 +17266,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 229.87 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -17678,7 +17450,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 204.47 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -18027,82 +17799,6 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_marbastlib-mx:MX_stab")
-		(at 363.22 209.55 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b30c6187-9ad8-49f1-b072-48846d9ed096")
-		(property "Reference" "S7"
-			(at 369.57 208.1529 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MX_stab"
-			(at 369.57 210.6929 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_6.25u"
-			(at 363.22 209.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 363.22 209.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Cherry MX-style stabilizer"
-			(at 363.22 209.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(instances
-			(project "my-keeb"
-				(path "/a23aa3e6-b9ce-4514-a30b-1c7f03de1c53"
-					(reference "S7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Diode:1N4148")
 		(at 184.15 173.99 90)
 		(unit 1)
@@ -18238,7 +17934,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 217.17 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -18422,7 +18118,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 318.77 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -18502,7 +18198,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 318.77 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -18582,7 +18278,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 306.07 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -18765,7 +18461,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 280.67 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -18845,7 +18541,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 255.27 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -18925,7 +18621,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 318.77 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -19005,7 +18701,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 166.37 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -19293,7 +18989,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 306.07 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -19373,7 +19069,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 229.87 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -19453,7 +19149,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 166.37 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -20192,7 +19888,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 229.87 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -20480,7 +20176,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 153.67 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -20562,7 +20258,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_6.25u"
+		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_2u"
 			(at 363.22 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -20740,7 +20436,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 179.07 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -21028,7 +20724,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 242.57 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -21108,7 +20804,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 204.47 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -21188,7 +20884,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 255.27 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -21268,7 +20964,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 179.07 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -21556,7 +21252,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 280.67 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -21843,7 +21539,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 306.07 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -21923,7 +21619,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 280.67 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -22002,7 +21698,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 217.17 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -22586,7 +22282,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 191.77 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -22666,7 +22362,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 293.37 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -22824,7 +22520,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 153.67 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -23086,7 +22782,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 267.97 82.55 0)
 			(hide yes)
 			(show_name no)
