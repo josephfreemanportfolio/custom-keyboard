@@ -20,5 +20,11 @@ what_I_did: "Changed rotary encoder to reflect EC11, added more labels and wires
 date: 7/14/2026
 start_time: 1:18 pm eastern time
 time_spent: "1 hour 36 minutes"
-image: ![journal image](Journal%20images/)
+image: ![journal image](Journal%20images/journal7142026.png)
 what_I_did: "Made the schematic more spacious and larger, removed page up and down keys because I've never used them before, finally onto the stabilizer step in the documentation at 2:38. Continued later during the day, and added mounting holes and stabilizers. I am almost finished with the schematic just need to assign correct stabilizer footprints."
+---
+date: 7/15/2026
+start_time: 12:54 pm eastern time
+time_spent: "22 minutes"
+image: ![journal image](Journal%20images/journal7152026.png)
+what_I_did: "Assigned footprints. Kept crashing and I need to try and fix it tommorow."
